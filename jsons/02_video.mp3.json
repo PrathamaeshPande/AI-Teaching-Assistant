@@ -1,0 +1,1314 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "video",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " next thing that we are going to learn about are variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 3.2800000000000002,
+            "end": 7.28,
+            "text": " now we have seen many times in math that x is equal to 5"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 7.28,
+            "end": 12.08,
+            "text": " a is equal to 25 or we have seen many formulas a square plus b square"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 12.08,
+            "end": 17.6,
+            "text": " in all these formulas the a value, b value, x value are called variables in math"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 17.6,
+            "end": 22.56,
+            "text": " just like there are variables in math, similarly we have variables in programming"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 22.56,
+            "end": 29.68,
+            "text": " variables are basically our containers in which we store some data"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 29.759999999999998,
+            "end": 34.96,
+            "text": " so if we are giving some name to our data storage containers then we will call it a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 34.96,
+            "end": 40.4,
+            "text": " for example if i want to store my name, let us suppose this is my name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 40.4,
+            "end": 45.84,
+            "text": " and i want to store it somewhere in my memory, in my computer's memory through my python program"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 45.84,
+            "end": 48.879999999999995,
+            "text": " so we can store this value in a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 48.879999999999995,
+            "end": 53.120000000000005,
+            "text": " we can give any name to the variable, let us suppose i gave the variable a name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 53.120000000000005,
+            "end": 56.4,
+            "text": " and by equaling it i assigned this value"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 56.48,
+            "end": 62.64,
+            "text": " similarly if i have some age value, we can store this age value in age variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 62.64,
+            "end": 67.92,
+            "text": " if i have a value 3.14, we can store this in a variable called pi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 67.92,
+            "end": 71.68,
+            "text": " so in this way we can store any value in any particular variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 71.68,
+            "end": 74.72,
+            "text": " so what exactly does it mean to store value?"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 74.72,
+            "end": 79.03999999999999,
+            "text": " basically what it means is, like this is our computer's memory"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 79.03999999999999,
+            "end": 81.36,
+            "text": " this is let us suppose my computer's memory"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 81.44,
+            "end": 84.64,
+            "text": " so in the computer's memory there are different compartments"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 84.64,
+            "end": 87.12,
+            "text": " in which we can store values"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 87.12,
+            "end": 90.16,
+            "text": " by the way we call these compartments as individual bits"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 90.16,
+            "end": 93.44,
+            "text": " the smallest compartment size is 8 bits"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 93.44,
+            "end": 96.64,
+            "text": " which is 1 byte"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 96.64,
+            "end": 100.88,
+            "text": " let us suppose this is a computer's memory"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 100.88,
+            "end": 103.6,
+            "text": " so how do these variables get stored in the computer's memory?"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 103.6,
+            "end": 106.64,
+            "text": " like we created a variable age is equal to 30"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 106.64,
+            "end": 109.76,
+            "text": " so 30 values will get stored in our memory"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 109.76,
+            "end": 114.88000000000001,
+            "text": " and this particular memory location, we have given a name to it which is age"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 114.88000000000001,
+            "end": 118.4,
+            "text": " similarly if we store pi is equal to 3.14"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 118.4,
+            "end": 121.52000000000001,
+            "text": " so in the memory a variable named pi will get created"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 121.52000000000001,
+            "end": 124.88000000000001,
+            "text": " in which this particular value will get stored"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 124.88000000000001,
+            "end": 127.2,
+            "text": " so in this way all our variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 127.2,
+            "end": 130.24,
+            "text": " actually occupy a place in our memory"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 130.24,
+            "end": 132.8,
+            "text": " where our data gets stored"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 132.8,
+            "end": 135.36,
+            "text": " now let us create these variables in code"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 135.36,
+            "end": 139.04000000000002,
+            "text": " to create variables in code, let's clear this"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 139.12,
+            "end": 141.76,
+            "text": " what we can do simply is, we can create a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 141.76,
+            "end": 144.72,
+            "text": " name equals, let's write Shraddha"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 144.72,
+            "end": 147.76,
+            "text": " similarly age equals"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 147.76,
+            "end": 151.2,
+            "text": " here we are going to give a value which is a number"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 151.2,
+            "end": 154.0,
+            "text": " let's write 35"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 154.0,
+            "end": 156.88,
+            "text": " we can write the value of pi which is 3.14"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 156.88,
+            "end": 160.32,
+            "text": " and in this way we will get different variables created"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 160.32,
+            "end": 164.23999999999998,
+            "text": " now if we want we can print the value of our variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 164.23999999999998,
+            "end": 167.6,
+            "text": " like if i want to print the name value"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 167.6,
+            "end": 169.84,
+            "text": " so in this way i will have the name values"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 169.84,
+            "end": 172.07999999999998,
+            "text": " whenever we want to print the value of a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 172.07999999999998,
+            "end": 174.07999999999998,
+            "text": " we don't have to write it in double quotes"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 174.07999999999998,
+            "end": 176.16,
+            "text": " only strings are used in double quotes"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 176.16,
+            "end": 179.35999999999999,
+            "text": " we normally write the rest of the values"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 179.35999999999999,
+            "end": 182.95999999999998,
+            "text": " like if i want to print age with name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 182.95999999999998,
+            "end": 184.56,
+            "text": " or pi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 184.56,
+            "end": 187.28,
+            "text": " so we can print all three values in this way"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 187.28,
+            "end": 190.95999999999998,
+            "text": " we can also print a combination of string and a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 190.95999999999998,
+            "end": 194.32,
+            "text": " for example we can remove this and we can"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 194.32,
+            "end": 197.35999999999999,
+            "text": " write my name is"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 197.36,
+            "end": 199.92000000000002,
+            "text": " and separate it from comma and print the value"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 199.92000000000002,
+            "end": 202.16000000000003,
+            "text": " so in this way we will get the value printed"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 202.16000000000003,
+            "end": 205.04000000000002,
+            "text": " so this is how we use variables to print any value"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 205.04000000000002,
+            "end": 209.20000000000002,
+            "text": " with this if we want we can perform small operations on the variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 209.20000000000002,
+            "end": 212.4,
+            "text": " like if we do age is"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 212.4,
+            "end": 215.52,
+            "text": " so here we can print the age directly"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 215.52,
+            "end": 220.08,
+            "text": " or we can print the value of age minus 5"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 220.08,
+            "end": 222.0,
+            "text": " let's clear this and print"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 222.0,
+            "end": 226.16000000000003,
+            "text": " so here 35 minus 5 will be printed which is equal to 30"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 226.24,
+            "end": 230.07999999999998,
+            "text": " so in this way we can perform some operations on our numbers"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 230.07999999999998,
+            "end": 231.76,
+            "text": " like plus or minus multiply"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 231.76,
+            "end": 236.64,
+            "text": " now in python as a language indentation is something which is very important"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 236.64,
+            "end": 240.32,
+            "text": " indentation means how properly"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 240.32,
+            "end": 243.6,
+            "text": " we are structuring our lines in our code"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 243.6,
+            "end": 245.51999999999998,
+            "text": " we are structuring our code"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 245.51999999999998,
+            "end": 249.84,
+            "text": " so in python basically we try to write one instruction on one line"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 249.84,
+            "end": 253.35999999999999,
+            "text": " so this is one instruction where we are creating a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 253.36,
+            "end": 256.16,
+            "text": " this is the second instruction this is the third instruction"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 256.16,
+            "end": 260.96000000000004,
+            "text": " so here it is not like that we will write multiple things in one single line"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 260.96000000000004,
+            "end": 263.36,
+            "text": " so if we do this then we will get an error"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 263.36,
+            "end": 268.56,
+            "text": " so we write one instruction in one line and spacing is also which is very important in python"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 268.56,
+            "end": 271.36,
+            "text": " so slowly as we write more code of python"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 271.36,
+            "end": 274.0,
+            "text": " in the same way our syntax of python will be practiced"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 274.0,
+            "end": 276.88,
+            "text": " whenever we are creating variables in python"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 276.88,
+            "end": 279.2,
+            "text": " so whatever is the name of our variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 279.2,
+            "end": 282.16,
+            "text": " like our name, age, pi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 282.24,
+            "end": 285.20000000000005,
+            "text": " we call all these as identifiers"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 285.20000000000005,
+            "end": 289.44,
+            "text": " identifiers work to identify variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 289.44,
+            "end": 293.20000000000005,
+            "text": " if we want to identify anything then we use identifier for it"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 293.20000000000005,
+            "end": 295.6,
+            "text": " so the variable which we have named age"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 295.6,
+            "end": 297.12,
+            "text": " this is an identifier"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 297.12,
+            "end": 298.56,
+            "text": " we have named it pi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 298.56,
+            "end": 299.92,
+            "text": " this is an identifier"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 299.92,
+            "end": 302.64000000000004,
+            "text": " now identifiers are used only for variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 302.64000000000004,
+            "end": 304.64000000000004,
+            "text": " if we will go ahead and read functions"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 304.64000000000004,
+            "end": 307.68,
+            "text": " so the names of functions are also called identifiers"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 307.68,
+            "end": 311.04,
+            "text": " so the name of anything generally in programming"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 311.20000000000005,
+            "end": 313.76000000000005,
+            "text": " we call that name as identifier"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 313.76000000000005,
+            "end": 316.40000000000003,
+            "text": " and these names are case sensitive"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 316.96000000000004,
+            "end": 319.04,
+            "text": " we have read one thing about python"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 319.04,
+            "end": 321.84000000000003,
+            "text": " that indentation is very important in python"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 322.48,
+            "end": 326.16,
+            "text": " along with that python is a case sensitive language"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 326.16,
+            "end": 328.64000000000004,
+            "text": " case sensitive means that in python"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 328.64000000000004,
+            "end": 331.04,
+            "text": " uppercase and lowercase values are different"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 331.6,
+            "end": 334.96000000000004,
+            "text": " if we have read sql or html"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 334.96000000000004,
+            "end": 336.96000000000004,
+            "text": " then we would have noticed that in html"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 336.96000000000004,
+            "end": 338.32000000000005,
+            "text": " whether we write body tag"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 338.88,
+            "end": 341.2,
+            "text": " whether we write capital B or dy"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 341.2,
+            "end": 342.4,
+            "text": " both have same meaning"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 342.4,
+            "end": 346.0,
+            "text": " but in python if we write capital AGE"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 346.0,
+            "end": 347.68,
+            "text": " and small age"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 347.68,
+            "end": 349.44,
+            "text": " these two have different meaning"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 349.44,
+            "end": 351.36,
+            "text": " these two are different identifiers"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 351.92,
+            "end": 354.71999999999997,
+            "text": " similarly if we write capital AGE"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 354.71999999999997,
+            "end": 356.32,
+            "text": " then this is third identifier"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 356.32,
+            "end": 359.28,
+            "text": " so in python uppercase and lowercase characters"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 359.28,
+            "end": 360.32,
+            "text": " are treated differently"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 360.32,
+            "end": 362.24,
+            "text": " along with that in python identifiers"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 362.24,
+            "end": 364.8,
+            "text": " it is not like we can use any character"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 364.8,
+            "end": 366.64,
+            "text": " it is not like we can use any character"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 366.71999999999997,
+            "end": 368.8,
+            "text": " let us suppose we made a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 368.8,
+            "end": 370.96,
+            "text": " which stores value 1,2,3"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 370.96,
+            "end": 374.0,
+            "text": " and we named it $35"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 374.64,
+            "end": 377.84,
+            "text": " we can't create identifier like this"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 377.84,
+            "end": 380.96,
+            "text": " there are some basic rules to create identifiers"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 380.96,
+            "end": 383.52,
+            "text": " we don't need to remember these rules as such"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 383.52,
+            "end": 385.44,
+            "text": " we are going to discuss in a very basic way"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 385.44,
+            "end": 386.96,
+            "text": " rules of identifiers say"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 386.96,
+            "end": 390.47999999999996,
+            "text": " that we can use all the letters of our English"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 391.2,
+            "end": 393.2,
+            "text": " from uppercase to lowercase"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 393.2,
+            "end": 394.96,
+            "text": " all the letters are allowed"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 394.96,
+            "end": 396.71999999999997,
+            "text": " along with that we can use digits"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 396.71999999999997,
+            "end": 397.84,
+            "text": " from 0 to 9"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 397.84,
+            "end": 399.52,
+            "text": " we can use all of them"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 399.52,
+            "end": 401.91999999999996,
+            "text": " plus we can use underscore"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 401.91999999999996,
+            "end": 403.59999999999997,
+            "text": " but our variable name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 403.59999999999997,
+            "end": 405.91999999999996,
+            "text": " should never start with digits"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 405.91999999999996,
+            "end": 407.59999999999997,
+            "text": " only these characters are allowed"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 407.59999999999997,
+            "end": 408.96,
+            "text": " and don't start with digits"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 408.96,
+            "end": 411.44,
+            "text": " either name will start with English letter"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 411.44,
+            "end": 413.44,
+            "text": " or will start with some underscore"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 413.44,
+            "end": 414.32,
+            "text": " for example"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 414.32,
+            "end": 416.4,
+            "text": " we could have named all these variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 416.4,
+            "end": 417.2,
+            "text": " underscore name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 418.15999999999997,
+            "end": 419.52,
+            "text": " underscore age"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 419.52,
+            "end": 420.56,
+            "text": " or underscore pi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 421.67999999999995,
+            "end": 423.76,
+            "text": " so it would have been valid"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 423.84,
+            "end": 424.56,
+            "text": " for example"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 424.56,
+            "end": 426.15999999999997,
+            "text": " we can print name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 427.76,
+            "end": 428.26,
+            "text": " age"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 429.03999999999996,
+            "end": 429.53999999999996,
+            "text": " and pi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 430.32,
+            "end": 431.12,
+            "text": " let's clear this"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 431.12,
+            "end": 433.36,
+            "text": " and in this way we will get the same output"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 433.36,
+            "end": 436.56,
+            "text": " but if we want to start pi with 5"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 436.56,
+            "end": 437.68,
+            "text": " this will give us an error"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 437.68,
+            "end": 439.59999999999997,
+            "text": " because this is not allowed in python"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 439.59999999999997,
+            "end": 441.92,
+            "text": " so whenever we name a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 441.92,
+            "end": 445.76,
+            "text": " first we have to follow the basic rules of identifiers"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 445.76,
+            "end": 446.24,
+            "text": " plus"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 446.24,
+            "end": 448.8,
+            "text": " we have to try as a good programmer"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 448.8,
+            "end": 450.32,
+            "text": " that all the names"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 450.88,
+            "end": 452.8,
+            "text": " which are the names of our variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 452.8,
+            "end": 455.68,
+            "text": " should be meaningful names"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 456.24,
+            "end": 456.8,
+            "text": " meaning"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 456.8,
+            "end": 458.8,
+            "text": " one of the best sign of a good programmer"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 458.8,
+            "end": 459.36,
+            "text": " is that"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 459.36,
+            "end": 460.48,
+            "text": " when he writes his code"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 460.48,
+            "end": 462.08,
+            "text": " when he writes his program"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 462.08,
+            "end": 463.6,
+            "text": " so every variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 463.6,
+            "end": 465.12,
+            "text": " we can understand by reading its name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 465.12,
+            "end": 466.96000000000004,
+            "text": " that which value is being stored in it"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 466.96000000000004,
+            "end": 467.36,
+            "text": " for example"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 467.36,
+            "end": 468.64,
+            "text": " a which we can understand by reading"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 468.64,
+            "end": 469.6,
+            "text": " that what is this number"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 469.6,
+            "end": 471.12,
+            "text": " this number is not rupee or dollar"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 471.12,
+            "end": 472.72,
+            "text": " this is an age value"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 472.72,
+            "end": 474.0,
+            "text": " what is this 3.14"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 474.0,
+            "end": 474.96000000000004,
+            "text": " this is the value of pi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 474.96000000000004,
+            "end": 477.28000000000003,
+            "text": " this is not the value of gravity acceleration"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 477.28000000000003,
+            "end": 478.16,
+            "text": " this value"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 478.16,
+            "end": 479.12,
+            "text": " this is a name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 479.12,
+            "end": 480.72,
+            "text": " this is not some random string"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 480.72,
+            "end": 482.40000000000003,
+            "text": " this is not name of a city"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 482.47999999999996,
+            "end": 484.32,
+            "text": " if we have to store the name of a city"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 484.32,
+            "end": 485.59999999999997,
+            "text": " then we write something like this"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 485.59999999999997,
+            "end": 486.71999999999997,
+            "text": " city underscore name"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 487.67999999999995,
+            "end": 490.15999999999997,
+            "text": " and here we could have written Delhi"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 490.15999999999997,
+            "end": 492.32,
+            "text": " so in this way we create a variable"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 492.32,
+            "end": 495.03999999999996,
+            "text": " so we have to try to give meaningful names to our variables"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 495.03999999999996,
+            "end": 496.08,
+            "text": " and this is something"
+        },
+        {
+            "number": "2",
+            "title": "video",
+            "start": 496.08,
+            "end": 498.15999999999997,
+            "text": " which is going to impress our interviewers"
+        }
+    ],
+    "text": " next thing that we are going to learn about are variables now we have seen many times in math that x is equal to 5 a is equal to 25 or we have seen many formulas a square plus b square in all these formulas the a value, b value, x value are called variables in math just like there are variables in math, similarly we have variables in programming variables are basically our containers in which we store some data so if we are giving some name to our data storage containers then we will call it a variable for example if i want to store my name, let us suppose this is my name and i want to store it somewhere in my memory, in my computer's memory through my python program so we can store this value in a variable we can give any name to the variable, let us suppose i gave the variable a name and by equaling it i assigned this value similarly if i have some age value, we can store this age value in age variable if i have a value 3.14, we can store this in a variable called pi so in this way we can store any value in any particular variable so what exactly does it mean to store value? basically what it means is, like this is our computer's memory this is let us suppose my computer's memory so in the computer's memory there are different compartments in which we can store values by the way we call these compartments as individual bits the smallest compartment size is 8 bits which is 1 byte let us suppose this is a computer's memory so how do these variables get stored in the computer's memory? like we created a variable age is equal to 30 so 30 values will get stored in our memory and this particular memory location, we have given a name to it which is age similarly if we store pi is equal to 3.14 so in the memory a variable named pi will get created in which this particular value will get stored so in this way all our variables actually occupy a place in our memory where our data gets stored now let us create these variables in code to create variables in code, let's clear this what we can do simply is, we can create a variable name equals, let's write Shraddha similarly age equals here we are going to give a value which is a number let's write 35 we can write the value of pi which is 3.14 and in this way we will get different variables created now if we want we can print the value of our variables like if i want to print the name value so in this way i will have the name values whenever we want to print the value of a variable we don't have to write it in double quotes only strings are used in double quotes we normally write the rest of the values like if i want to print age with name or pi so we can print all three values in this way we can also print a combination of string and a variable for example we can remove this and we can write my name is and separate it from comma and print the value so in this way we will get the value printed so this is how we use variables to print any value with this if we want we can perform small operations on the variables like if we do age is so here we can print the age directly or we can print the value of age minus 5 let's clear this and print so here 35 minus 5 will be printed which is equal to 30 so in this way we can perform some operations on our numbers like plus or minus multiply now in python as a language indentation is something which is very important indentation means how properly we are structuring our lines in our code we are structuring our code so in python basically we try to write one instruction on one line so this is one instruction where we are creating a variable this is the second instruction this is the third instruction so here it is not like that we will write multiple things in one single line so if we do this then we will get an error so we write one instruction in one line and spacing is also which is very important in python so slowly as we write more code of python in the same way our syntax of python will be practiced whenever we are creating variables in python so whatever is the name of our variable like our name, age, pi we call all these as identifiers identifiers work to identify variables if we want to identify anything then we use identifier for it so the variable which we have named age this is an identifier we have named it pi this is an identifier now identifiers are used only for variables if we will go ahead and read functions so the names of functions are also called identifiers so the name of anything generally in programming we call that name as identifier and these names are case sensitive we have read one thing about python that indentation is very important in python along with that python is a case sensitive language case sensitive means that in python uppercase and lowercase values are different if we have read sql or html then we would have noticed that in html whether we write body tag whether we write capital B or dy both have same meaning but in python if we write capital AGE and small age these two have different meaning these two are different identifiers similarly if we write capital AGE then this is third identifier so in python uppercase and lowercase characters are treated differently along with that in python identifiers it is not like we can use any character it is not like we can use any character let us suppose we made a variable which stores value 1,2,3 and we named it $35 we can't create identifier like this there are some basic rules to create identifiers we don't need to remember these rules as such we are going to discuss in a very basic way rules of identifiers say that we can use all the letters of our English from uppercase to lowercase all the letters are allowed along with that we can use digits from 0 to 9 we can use all of them plus we can use underscore but our variable name should never start with digits only these characters are allowed and don't start with digits either name will start with English letter or will start with some underscore for example we could have named all these variables underscore name underscore age or underscore pi so it would have been valid for example we can print name age and pi let's clear this and in this way we will get the same output but if we want to start pi with 5 this will give us an error because this is not allowed in python so whenever we name a variable first we have to follow the basic rules of identifiers plus we have to try as a good programmer that all the names which are the names of our variable should be meaningful names meaning one of the best sign of a good programmer is that when he writes his code when he writes his program so every variable we can understand by reading its name that which value is being stored in it for example a which we can understand by reading that what is this number this number is not rupee or dollar this is an age value what is this 3.14 this is the value of pi this is not the value of gravity acceleration this value this is a name this is not some random string this is not name of a city if we have to store the name of a city then we write something like this city underscore name and here we could have written Delhi so in this way we create a variable so we have to try to give meaningful names to our variables and this is something which is going to impress our interviewers"
+}

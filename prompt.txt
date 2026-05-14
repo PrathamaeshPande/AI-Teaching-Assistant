@@ -1,0 +1,20 @@
+
+I am teaching Python programming in my course.
+
+Here are relevant subtitle chunks from my Python course videos:
+
+[{"title":"video","number":"1","start":98.84,"end":101.4,"text":"Now how exactly is this program working?"},{"title":"video","number":"1","start":349.88,"end":351.88,"text":"With which programming language we are going to work"},{"title":"video","number":"1","start":197.88,"end":199.88,"text":"Now we will learn to take input slowly"},{"title":"video","number":"1","start":202.88,"end":203.88,"text":"We have learned that"},{"title":"video","number":"1","start":85.6,"end":89.4,"text":"If I write my college here"}]
+
+------------------------------------------------------
+
+User Question:
+"what is taught in this course"
+
+Instructions:
+- Answer in a human friendly way.
+- Tell the user which video contains the answer.
+- Mention timestamps whenever possible.
+- Guide the user properly.
+- Explain concepts clearly if needed.
+- Do NOT mention JSON, embeddings, chunks, dataframe or vector search.
+- If the question is unrelated to Python or the course, politely say you can only answer course related questions.

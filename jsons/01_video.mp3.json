@@ -1,0 +1,915 @@
+{
+    "chunks": [
+        {
+            "number": "1",
+            "title": "video",
+            "start": 0.0,
+            "end": 3.4,
+            "text": " Now we are going to write our first program in python"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 3.4,
+            "end": 4.44,
+            "text": " What is a program?"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 4.44,
+            "end": 9.84,
+            "text": " Programs are basically instructions which we give to our computer or system to perform some work"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 9.84,
+            "end": 12.48,
+            "text": " For example, we will take a very simple example of a program"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 12.48,
+            "end": 16.0,
+            "text": " This is our python folder and inside it, this is the new file icon"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 16.0,
+            "end": 19.0,
+            "text": " As soon as we click on it, a new file will be created for us"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 19.0,
+            "end": 20.68,
+            "text": " We are going to give the name of the file as code"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 20.68,
+            "end": 23.28,
+            "text": " And we will give an extension to it as .py"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 23.28,
+            "end": 24.64,
+            "text": " Code is the name of our file"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 24.64,
+            "end": 26.44,
+            "text": " If we wanted, we could have given any code"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 26.44,
+            "end": 28.84,
+            "text": " First code, first program, we could have given any name"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 28.96,
+            "end": 34.2,
+            "text": " .py is the extension which basically tells VS Code that we are creating a python file"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 34.2,
+            "end": 35.88,
+            "text": " In which python code will be written"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 35.88,
+            "end": 41.2,
+            "text": " Every file which has different type of data, different type of programming language has a different extension"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 41.2,
+            "end": 43.08,
+            "text": " For java, we have .java"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 43.08,
+            "end": 44.8,
+            "text": " For C++, we have .cpp"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 44.8,
+            "end": 46.879999999999995,
+            "text": " For text files, we have .txt"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 46.879999999999995,
+            "end": 48.36,
+            "text": " So this is our python file"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 48.36,
+            "end": 52.04,
+            "text": " So as soon as we enter, this is our file which has been created for us"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 52.04,
+            "end": 54.519999999999996,
+            "text": " And inside this, we are going to write a simple program"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 54.519999999999996,
+            "end": 56.8,
+            "text": " Print, then quotes, double quotes"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 56.839999999999996,
+            "end": 59.36,
+            "text": " And here we will write, hello world"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 59.36,
+            "end": 61.64,
+            "text": " That's it, we have to write such a simple program"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 61.64,
+            "end": 64.08,
+            "text": " Now we will understand its meaning slowly"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 64.08,
+            "end": 65.56,
+            "text": " We are going to save our file"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 65.56,
+            "end": 67.6,
+            "text": " We can save it by pressing ctrl s"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 67.6,
+            "end": 70.64,
+            "text": " And if we want, we can either run our code from here"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 70.64,
+            "end": 75.47999999999999,
+            "text": " Otherwise, here in the terminal, there is a simple command that we can write python3"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 75.47999999999999,
+            "end": 79.67999999999999,
+            "text": " And after that, the name of our file which is code.py"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 79.67999999999999,
+            "end": 85.56,
+            "text": " As soon as we enter, whatever we have written here, it will be printed for us"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 85.60000000000001,
+            "end": 89.4,
+            "text": " If I write my college here"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 89.4,
+            "end": 92.0,
+            "text": " Then I am going to see the same output"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 92.0,
+            "end": 96.16,
+            "text": " So basically, this is the first program which we have created"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 96.16,
+            "end": 98.84,
+            "text": " To print hello world on our screen"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 98.84,
+            "end": 101.4,
+            "text": " Now how exactly is this program working?"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 101.4,
+            "end": 106.4,
+            "text": " Basically, here, this print statement which is written, this is a function"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 106.4,
+            "end": 109.04,
+            "text": " In python, we call this line a function"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 109.04,
+            "end": 111.2,
+            "text": " We call this print a function"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 111.2,
+            "end": 112.88,
+            "text": " Now what exactly are functions?"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 112.88,
+            "end": 114.92,
+            "text": " We will go ahead and read them in detail"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 115.48,
+            "end": 118.48,
+            "text": " We will have a dedicated chapter on functions"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 118.48,
+            "end": 122.32000000000001,
+            "text": " But for now, we can understand that whenever we have to do something in python"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 122.32000000000001,
+            "end": 125.56,
+            "text": " Generally, we do majority of the work through functions"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 125.56,
+            "end": 129.36,
+            "text": " Like printing output on our screen"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 129.36,
+            "end": 132.36,
+            "text": " Its logic is already written in our print function"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 132.36,
+            "end": 134.36,
+            "text": " That's why we used it directly"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 134.36,
+            "end": 137.36,
+            "text": " And this thing which we have printed"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 137.36,
+            "end": 140.76,
+            "text": " This is called a string"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 140.79999999999998,
+            "end": 146.04,
+            "text": " Basically, if we have to print any word, sentence, paragraph"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 146.04,
+            "end": 149.44,
+            "text": " All these are our strings in programming, in coding"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 149.44,
+            "end": 152.72,
+            "text": " So generally, we write strings in double quotes"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 152.72,
+            "end": 156.32,
+            "text": " If we want, we can write strings in single quote or triple quote"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 156.32,
+            "end": 161.12,
+            "text": " But generally, our popular format is to write strings with double quotes"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 161.12,
+            "end": 165.28,
+            "text": " So whatever we write in double quotes, that function prints it on our screen"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 165.28,
+            "end": 167.88,
+            "text": " On our terminal window"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 167.92,
+            "end": 170.28,
+            "text": " Now when we write our codes in python"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 170.28,
+            "end": 174.28,
+            "text": " All our codes, generally, whenever we do programming"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 174.28,
+            "end": 176.28,
+            "text": " Whether we use any programming language"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 176.28,
+            "end": 179.28,
+            "text": " Any code's work is generally a format"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 179.28,
+            "end": 183.88,
+            "text": " That it takes some input and returns some output"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 183.88,
+            "end": 187.28,
+            "text": " And after taking input, generally, there are some computations in code"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 187.28,
+            "end": 190.56,
+            "text": " Some work is performed and on its basis, some output is produced"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 190.56,
+            "end": 192.88,
+            "text": " Which can be printed on our terminal window"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 192.88,
+            "end": 195.88,
+            "text": " Generally, this is the work that our code does for us"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 195.88,
+            "end": 197.88,
+            "text": " So here, as such, we have just taken input"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 197.88,
+            "end": 199.88,
+            "text": " Now we will learn to take input slowly"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 199.88,
+            "end": 202.88,
+            "text": " But how to output things with print"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 202.88,
+            "end": 203.88,
+            "text": " We have learned that"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 203.88,
+            "end": 205.88,
+            "text": " Plus, along with this, let's suppose"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 205.88,
+            "end": 207.88,
+            "text": " If we have to output multiple values"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 207.88,
+            "end": 209.88,
+            "text": " Like if we want to print two strings"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 209.88,
+            "end": 211.88,
+            "text": " Like my first string is hello world"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 211.88,
+            "end": 214.88,
+            "text": " And if I want to print another string"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 214.88,
+            "end": 218.88,
+            "text": " Which is hello world with python"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 218.88,
+            "end": 221.88,
+            "text": " Let's save it, clear and rerun"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 221.88,
+            "end": 223.88,
+            "text": " So in this way, our two statements"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 223.88,
+            "end": 226.88,
+            "text": " Every print statement is printed on a different line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 226.88,
+            "end": 228.88,
+            "text": " If we want to print them on the same line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 228.88,
+            "end": 231.88,
+            "text": " For that, our output, our string"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 231.88,
+            "end": 233.88,
+            "text": " We can separate it from the comma"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 233.88,
+            "end": 235.88,
+            "text": " So let's save it"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 235.88,
+            "end": 237.88,
+            "text": " Let me close this"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 237.88,
+            "end": 239.88,
+            "text": " And we will clear and print this"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 239.88,
+            "end": 241.88,
+            "text": " So all the output will come on the same line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 241.88,
+            "end": 247.88,
+            "text": " Similarly, if we want to insert a next line in our single statement"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 247.88,
+            "end": 250.88,
+            "text": " Like I want hello world to come in one line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 250.88,
+            "end": 252.88,
+            "text": " Or hello to come in one line and world in the next line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 252.88,
+            "end": 255.88,
+            "text": " For that, there is a special character that we can use"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 255.88,
+            "end": 257.88,
+            "text": " Which is backslash n"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 257.88,
+            "end": 261.88,
+            "text": " We get next line from backslash n"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 261.88,
+            "end": 263.88,
+            "text": " Next line will look like this"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 263.88,
+            "end": 265.88,
+            "text": " Where hello will come in one line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 265.88,
+            "end": 267.88,
+            "text": " After that, we will get next line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 267.88,
+            "end": 269.88,
+            "text": " And the rest of the output will come in the next line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 269.88,
+            "end": 273.88,
+            "text": " The extra space that is being printed before w"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 273.88,
+            "end": 275.88,
+            "text": " This is because of this space"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 275.88,
+            "end": 277.88,
+            "text": " If we cut this"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 277.88,
+            "end": 279.88,
+            "text": " Now the output we have will look like this"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 279.88,
+            "end": 282.88,
+            "text": " So if in our output we want to insert next line"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 282.88,
+            "end": 284.88,
+            "text": " At any point we can use this particular character"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 284.88,
+            "end": 287.88,
+            "text": " Now whenever we talk about Python as a programming language"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 287.88,
+            "end": 289.88,
+            "text": " Python has a particular character set"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 289.88,
+            "end": 291.88,
+            "text": " Character set means"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 291.88,
+            "end": 294.88,
+            "text": " In Python, we can't use Hindi characters"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 294.88,
+            "end": 297.88,
+            "text": " Or we can use characters of any other language"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 297.88,
+            "end": 301.88,
+            "text": " The allowed characters are only part of the programming"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 301.88,
+            "end": 303.88,
+            "text": " In this, our English letters come"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 303.88,
+            "end": 306.88,
+            "text": " From capital to our upper case and lower case"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 306.88,
+            "end": 308.88,
+            "text": " Our digits come"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 308.88,
+            "end": 310.88,
+            "text": " Some special symbols come"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 310.88,
+            "end": 312.88,
+            "text": " Which we will read in detail in operators"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 312.88,
+            "end": 314.88,
+            "text": " Some white spaces come"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 314.88,
+            "end": 316.88,
+            "text": " From which a character of new line comes"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 316.88,
+            "end": 318.88,
+            "text": " Which we just saw"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 318.88,
+            "end": 320.88,
+            "text": " Similarly, our tab character comes"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 320.88,
+            "end": 322.88,
+            "text": " Which is backslash t"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 322.88,
+            "end": 325.88,
+            "text": " And in this way, our blank space is also part"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 325.88,
+            "end": 327.88,
+            "text": " So multiple types of spaces come"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 327.88,
+            "end": 329.88,
+            "text": " Plus all our ASCII and Unicode characters"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 329.88,
+            "end": 332.88,
+            "text": " ASCII stands for American Standard for Information Interchange"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 332.88,
+            "end": 334.88,
+            "text": " So all the characters in this"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 334.88,
+            "end": 335.88,
+            "text": " Plus Unicode"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 335.88,
+            "end": 337.88,
+            "text": " We can use them in data"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 338.88,
+            "end": 340.88,
+            "text": " We will see what are literals exactly"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 340.88,
+            "end": 342.88,
+            "text": " Now the character set we have read"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 342.88,
+            "end": 345.88,
+            "text": " We don't need to remember it or make notes"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 345.88,
+            "end": 347.88,
+            "text": " Nor anyone will ask us in interviews"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 347.88,
+            "end": 349.88,
+            "text": " But we should have a general idea"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 349.88,
+            "end": 351.88,
+            "text": " With which programming language we are going to work"
+        },
+        {
+            "number": "1",
+            "title": "video",
+            "start": 351.88,
+            "end": 353.88,
+            "text": " Which characters are allowed in it"
+        }
+    ],
+    "text": " Now we are going to write our first program in python What is a program? Programs are basically instructions which we give to our computer or system to perform some work For example, we will take a very simple example of a program This is our python folder and inside it, this is the new file icon As soon as we click on it, a new file will be created for us We are going to give the name of the file as code And we will give an extension to it as .py Code is the name of our file If we wanted, we could have given any code First code, first program, we could have given any name .py is the extension which basically tells VS Code that we are creating a python file In which python code will be written Every file which has different type of data, different type of programming language has a different extension For java, we have .java For C++, we have .cpp For text files, we have .txt So this is our python file So as soon as we enter, this is our file which has been created for us And inside this, we are going to write a simple program Print, then quotes, double quotes And here we will write, hello world That's it, we have to write such a simple program Now we will understand its meaning slowly We are going to save our file We can save it by pressing ctrl s And if we want, we can either run our code from here Otherwise, here in the terminal, there is a simple command that we can write python3 And after that, the name of our file which is code.py As soon as we enter, whatever we have written here, it will be printed for us If I write my college here Then I am going to see the same output So basically, this is the first program which we have created To print hello world on our screen Now how exactly is this program working? Basically, here, this print statement which is written, this is a function In python, we call this line a function We call this print a function Now what exactly are functions? We will go ahead and read them in detail We will have a dedicated chapter on functions But for now, we can understand that whenever we have to do something in python Generally, we do majority of the work through functions Like printing output on our screen Its logic is already written in our print function That's why we used it directly And this thing which we have printed This is called a string Basically, if we have to print any word, sentence, paragraph All these are our strings in programming, in coding So generally, we write strings in double quotes If we want, we can write strings in single quote or triple quote But generally, our popular format is to write strings with double quotes So whatever we write in double quotes, that function prints it on our screen On our terminal window Now when we write our codes in python All our codes, generally, whenever we do programming Whether we use any programming language Any code's work is generally a format That it takes some input and returns some output And after taking input, generally, there are some computations in code Some work is performed and on its basis, some output is produced Which can be printed on our terminal window Generally, this is the work that our code does for us So here, as such, we have just taken input Now we will learn to take input slowly But how to output things with print We have learned that Plus, along with this, let's suppose If we have to output multiple values Like if we want to print two strings Like my first string is hello world And if I want to print another string Which is hello world with python Let's save it, clear and rerun So in this way, our two statements Every print statement is printed on a different line If we want to print them on the same line For that, our output, our string We can separate it from the comma So let's save it Let me close this And we will clear and print this So all the output will come on the same line Similarly, if we want to insert a next line in our single statement Like I want hello world to come in one line Or hello to come in one line and world in the next line For that, there is a special character that we can use Which is backslash n We get next line from backslash n Next line will look like this Where hello will come in one line After that, we will get next line And the rest of the output will come in the next line The extra space that is being printed before w This is because of this space If we cut this Now the output we have will look like this So if in our output we want to insert next line At any point we can use this particular character Now whenever we talk about Python as a programming language Python has a particular character set Character set means In Python, we can't use Hindi characters Or we can use characters of any other language The allowed characters are only part of the programming In this, our English letters come From capital to our upper case and lower case Our digits come Some special symbols come Which we will read in detail in operators Some white spaces come From which a character of new line comes Which we just saw Similarly, our tab character comes Which is backslash t And in this way, our blank space is also part So multiple types of spaces come Plus all our ASCII and Unicode characters ASCII stands for American Standard for Information Interchange So all the characters in this Plus Unicode We can use them in data We will see what are literals exactly Now the character set we have read We don't need to remember it or make notes Nor anyone will ask us in interviews But we should have a general idea With which programming language we are going to work Which characters are allowed in it"
+}
