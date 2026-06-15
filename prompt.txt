@@ -3,12 +3,12 @@ I am teaching Python programming in my course.
 
 Here are relevant subtitle chunks from my Python course videos:
 
-[{"title":"video","number":"1","start":98.84,"end":101.4,"text":"Now how exactly is this program working?"},{"title":"video","number":"1","start":349.88,"end":351.88,"text":"With which programming language we are going to work"},{"title":"video","number":"1","start":197.88,"end":199.88,"text":"Now we will learn to take input slowly"},{"title":"video","number":"1","start":202.88,"end":203.88,"text":"We have learned that"},{"title":"video","number":"1","start":85.6,"end":89.4,"text":"If I write my college here"}]
+[{"title":"video","number":"1","start":287.88,"end":289.88,"text":"Python has a particular character set"},{"title":"video","number":"1","start":284.88,"end":287.88,"text":"Now whenever we talk about Python as a programming language"},{"title":"video","number":"1","start":214.88,"end":218.88,"text":"Which is hello world with python"},{"title":"video","number":"1","start":3.4,"end":4.44,"text":"What is a program?"},{"title":"video","number":"1","start":12.48,"end":16.0,"text":"This is our python folder and inside it, this is the new file icon"}]
 
 ------------------------------------------------------
 
 User Question:
-"what is taught in this course"
+"What is Python"
 
 Instructions:
 - Answer in a human friendly way.
